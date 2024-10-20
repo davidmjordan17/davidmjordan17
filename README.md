@@ -11,7 +11,13 @@ I am a senior at East Carolina University pursuing a B.S. in Computer Science. I
 # Projects 💻
 
 
-# Certifications 📑
+# Languages and Frameworks
 <div>
-  <img src="https://images.credly.com/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="CompTIA A+ Certification" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Java" width="70" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="Java" width="70" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="Java" width="70" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="Java" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="57" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Java" width="150" />
 </div>
