@@ -7,11 +7,6 @@ I am a senior at East Carolina University pursuing a B.S. in Computer Science. I
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="90" />
 </div>
 
-
-# Projects 💻
-[Rock-Paper-Scissors Web Game](https://github.com/davidmjordan17/Rock-Paper-Scissors)<br>
-[Weather Web App](https://github.com/davidmjordan17/Weather_App)
-
 # Languages and Frameworks
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50"/> 
